@@ -1,2 +1,4 @@
 # iletisim-form
-PHP veritabansız iletişim formu
+PHP ile veritabansız iletişim formu
+
+Detaylı anlatım : https://bonurtek.com/nasil-yapilir-php-ile-veritabansiz-iletisim-formu/
