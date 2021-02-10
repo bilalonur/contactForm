@@ -1,4 +1,3 @@
-# iletisim-form
-PHP ile veritabansız iletişim formu
-
-Detaylı anlatım : https://bonurtek.com/nasil-yapilir-php-ile-veritabansiz-iletisim-formu/
+# PHP Contact Form without any Database
+It is a contact form developed in PHP without using any database.
+Detailed Explanation of Project (in Turkish): https://bonurtek.com/nasil-yapilir-php-ile-veritabansiz-iletisim-formu/
