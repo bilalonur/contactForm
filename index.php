@@ -80,7 +80,7 @@ table.customTable thead {
     
     <?php
     /* 
-    Form Gönderildikten Sonra
+    Form Gönderildikten Sonra ~ After Form Posted 
     */
     if($_POST){
         if(empty($_POST['ad']) or empty($_POST['eposta']) or empty($_POST['mesaj'])) {
